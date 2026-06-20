@@ -6,7 +6,7 @@
 
 # Claude Code: Guía completa para desarrolladores de software
 
-.
+
 
 
 ## Claude
