@@ -57,7 +57,7 @@
 - [Buenas practicas de prompts: Claude](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
 
 
-### Extras
+### Extra
 
 * [Wallpapers](https://drive.google.com/drive/folders/1ItU8rbSGJjnh2USOBGwaCo9nYKifPJ6m?usp=sharing)
 
