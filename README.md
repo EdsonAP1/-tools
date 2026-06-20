@@ -5,7 +5,7 @@
 </div>
 
 # Claude Code: Guía completa para desarrolladores de software
-Para empezar el curso, les dejo una lista de las instalaciones generales que les recomiendo. 
+
 Recuerden que más adelante tendremos una sección dedicada a la configuración y generalidades de ClaudeCode, estas son configuraciones generales del equipo.
 
 
