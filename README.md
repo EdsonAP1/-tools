@@ -6,7 +6,7 @@
 
 # Claude Code: Guía completa para desarrolladores de software
 
-Recuerden que más adelante tendremos una sección dedicada a la configuración y generalidades de ClaudeCode, estas son configuraciones generales del equipo.
+.
 
 
 ## Claude
