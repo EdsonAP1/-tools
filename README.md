@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://code.claude.com/docs/en/overview">   
-    <img height="211" alt="claudecode-translucent" src="https://gist.github.com/user-attachments/assets/479eebf0-38f6-43e7-a4b4-3c9a44ce93e6" />  </a>
+ 
 
 
 </div>
