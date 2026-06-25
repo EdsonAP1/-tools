@@ -4,10 +4,6 @@
 
 </div>
 
-# Claude Code Guía completa 
-
-
-
 
 ## Claude
 - [Claude Web](https://claude.ai/new)
