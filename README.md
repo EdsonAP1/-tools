@@ -6,7 +6,8 @@
 ## Claude
 - [Claude Web](https://claude.ai/new)
 - [Claude Desktop](https://claude.ai/downloads)
-## Terminal recomendada
+
+## Terminal recomendo
 - [Warp](https://app.warp.dev/referral/2KPGQV)
 
 ## Node
