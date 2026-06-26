@@ -13,7 +13,7 @@
 - [Node.js](https://nodejs.org/en/download)
 
 
-## Git, GitHub y GitHub CLI
+## Git, GitHub y GitHub C L I
 
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
