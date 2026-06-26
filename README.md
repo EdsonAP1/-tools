@@ -6,7 +6,6 @@
 ## Claude
 - [Claude Web](https://claude.ai/new)
 - [Claude Desktop](https://claude.ai/downloads)
-
 ## Terminal recomendada
 - [Warp](https://app.warp.dev/referral/2KPGQV)
 
@@ -25,7 +24,7 @@
 - [Cursor AI](https://www.cursor.com/)  
 - [Windsurf](https://windsurf.com/editor)
 
-## Extensiones para VSCode (o forks)
+## Extensiones para VSCode (o fork)
 
 - [ClaudeCode for VS Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) (Usaremos la terminal principalmente)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
