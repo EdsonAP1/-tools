@@ -4,8 +4,7 @@
 
 </div>
 
-## Terminal recomendo
-- [Warp](https://app.warp.dev/referral/2KPGQV)
+
 
 ## Node
 - [Node.js](https://nodejs.org/en/download)
