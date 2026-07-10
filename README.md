@@ -4,14 +4,9 @@
 
 </div>
 
-
-
 ## Node
-- [Node.js](https://nodejs.org/en/download)
-
 
 ## Git, GitHub y GitHub C L I
-
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
 - [GitHub CLI (gh)](https://cli.github.com/)
