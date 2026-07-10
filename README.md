@@ -34,7 +34,6 @@
 
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
-- [GitHub CLI (gh)](https://cli.github.com/)
 
 
 
