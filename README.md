@@ -1,7 +1,6 @@
 <div align="center">
  
 
-
 </div>
 
 ## Git, GitHub y GitHub C L I
@@ -33,6 +32,9 @@
 - [ClaudeCode - CheatSheet](https://github.com/Klerith/mas-talento/blob/main/claude-code/claudecode-cheatsheet.pdf) para descaragar.
 - [ClaudeCode - CheatSheet - LightMode](https://github.com/Klerith/mas-talento/blob/main/claude-code/claudecode-cheatsheet-light.pdf) para descaragar.
 
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [GitHub CLI (gh)](https://cli.github.com/)
 
 
 
